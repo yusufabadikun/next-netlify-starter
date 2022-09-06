@@ -16,6 +16,9 @@ export default function Home() {
         <p className="description">
           an Arbitrum Nitro Memecoin
         </p>
+        <p className="link">
+          <a href="https://app.sushi.com/miso/0x6D705023Bec40528E1322738C866F04789F3559A?chainId=42161">Fairsale</a> |  <a href="#">Whitepaper</a>  |  <a href="#">Chart</a> 
+        </p>
       </main>
 
       <Footer />
