@@ -7,10 +7,11 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://pbs.twimg.com/profile_images/1566835133172264961/kAwO96xY_400x400.png" />
       </Head>
 
       <main>
+        <img src="https://pbs.twimg.com/profile_images/1566835133172264961/kAwO96xY_400x400.png"></img>
         <Header title="$nitroINU" />
         <p className="description">
           an Arbitrum Nitro Memecoin
