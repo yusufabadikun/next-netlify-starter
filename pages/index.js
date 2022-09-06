@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="$nitroINU" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          an Arbitrum Nitro Memecoin
         </p>
       </main>
 
