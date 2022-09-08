@@ -17,7 +17,7 @@ export default function Home() {
           an Arbitrum Nitro Memecoin
         </p>
         <p className="link">
-          <a href="https://app.sushi.com/miso/0x6D705023Bec40528E1322738C866F04789F3559A?chainId=42161">Fairsale</a> |  <a href="#">Whitepaper</a>  |  <a href="#">Chart</a> 
+          <a href="https://app.sushi.com/swap?inputCurrency=ETH&outputCurrency=0x21a2D6828d706b08E30B5c794ad5D9311B3dD32F&chainId=42161">Buy Now</a> |  <a href="#">Whitepaper</a>  |  <a href="https://dexscreener.com/arbitrum/0x21a2D6828d706b08E30B5c794ad5D9311B3dD32F">Chart</a> 
         </p>
       </main>
 
