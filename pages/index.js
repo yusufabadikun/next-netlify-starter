@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>NitroINU - Woof Woof</title>
         <link rel="icon" href="https://pbs.twimg.com/profile_images/1566835133172264961/kAwO96xY_400x400.png" />
       </Head>
 
